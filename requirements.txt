@@ -1,0 +1,9 @@
+holehe
+discord-py
+discord
+tcping
+requests~=2.25.1
+authgg~=0.9
+discord~=1.0.1
+argparse~=1.4.0
+httpx~=0.18.1
