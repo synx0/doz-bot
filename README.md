@@ -1,3 +1,5 @@
-[README.md](https://github.com/synx0/doz-bot/files/6988641/README.md)
-# doz-bot
-This is the source for the DOZ bot, some commands removed for security.
+# DOZ Bot Source
+
+I have decided to release the source to this simple bot, this was the starting point of me getting into programming and was a side project for a long time
+
+*I have removed some commands in order to protect your server as they were vulnerable to IP tracing*
